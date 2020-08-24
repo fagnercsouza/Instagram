@@ -70,7 +70,9 @@ body{
 }
 
 .instagram-login{
-    background-color: #0095f6;
+    /* background-color: #0095f6; */
+    background: rgb(232,136,1);
+    background: linear-gradient(10deg, rgba(232,136,1,1) 0%, rgba(191,59,153,1) 75%);
     color: #fff;
     padding: 8px;
     border-radius: 4px;
